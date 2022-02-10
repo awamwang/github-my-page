@@ -30,6 +30,6 @@
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.2.2",
     "hexo-toc": "^1.1.0",
-    "node-sass": "^4.9.3"
+    "node-sass": "^7.0.0"
   }
 }
